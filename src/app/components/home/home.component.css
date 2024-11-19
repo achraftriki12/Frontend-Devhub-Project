@@ -4,7 +4,6 @@ app-menubar {
     left: 0;
     width: 100%;
     z-index: 1000;
-    /* Adjust the z-index value based on your layout needs */
 }
 
 .flex {
